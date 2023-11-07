@@ -18,6 +18,6 @@ class Code {
                 s2 = "";
             }
         }
-
+        sc.close();
     }
 }
